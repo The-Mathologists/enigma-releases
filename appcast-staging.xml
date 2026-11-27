@@ -5,6 +5,14 @@
     <link>https://github.com/The-Mathologists/enigma-releases</link>
     <language>en</language>
     <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Fri, 27 Nov 2026 03:34:03 GMT</pubDate>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/The-Mathologists/enigma-releases/releases/download/staging-v0.1.1/EnigmaStaging-0.1.1.zip" length="4819579" type="application/octet-stream" sparkle:edSignature="WhXIsKHTF2FMRiszffTOT4KILQ+MaePfrPzWqr+Ch/HzwX9pANvjwyEqh6s+VbbDutO7UYjyqwO7xhsZ0edIBA=="/>
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <pubDate>Thu, 26 Nov 2026 10:03:21 GMT</pubDate>
       <sparkle:version>119</sparkle:version>
